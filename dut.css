@@ -34,14 +34,15 @@ d2l-navigation-main-header {
 
 /* Aankondiging card */
 .d2l-datalist-outdent > .d2l-msg-container {
-  background-color: black;
-  border-color: black;
+  background-color: #696969;
+  border-color: #696969;
   color: white;
 }
 
 /* Agenda header (aka the day or "Geplande gebeurtenissen"*/
 .daylight .d2l-collapsepane .d2l-collapsepane-header {
   background: #545454;
+  border-color: #545454;
 }
 
 /* Hover over gebeurtenis */
@@ -52,4 +53,6 @@ d2l-navigation-main-header {
 /* Agenda list */
 .daylight .d2l-collapsepane .d2l-collapsepane-content {
   background-color: #7e7e7e;
+  border-color: #7e7e7e;
 }
+
