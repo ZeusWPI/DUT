@@ -1,42 +1,55 @@
+/* I consider several layer of "depths" with each it's own color.
+Background/layer 0: black
+Layer 1: #3f3f3f
+Layer 2: #696969
+Layer 3: #7e7e7e
+Layer 3 active: #a8a8a8
+*/
+
+/* Color of name */
 .d2l-navigation-s-personal-menu-wrapper {
  color: white;
 }
 
+/* Navigation bar */
 .d2l-branding-navigation-background-color {
   background-color: #3f3f3f;
 }
 
+/* Section above navigation bar */
 d2l-navigation-main-header {
   background-color: black;
 }
 
-.d2l-page-main-padding {
-  background-color: black;
-  color: white;
-}
-
+/* Border of widget */ 
 .d2l-widget {
   background-color: #3f3f3f;
 }
 
+/* General website color */
 .d2l-body {
   background-color: black;
+  color: white;
 }
 
-.d2l-collapsepane-content {
-  background: #696969;
-}
-
+/* Aankondiging card */
 .d2l-datalist-outdent > .d2l-msg-container {
   background-color: black;
   border-color: black;
   color: white;
 }
 
+/* Agenda header (aka the day or "Geplande gebeurtenissen"*/
 .daylight .d2l-collapsepane .d2l-collapsepane-header {
   background: #545454;
 }
 
+/* Hover over gebeurtenis */
 .vui-list > .vui-active {
   background-color: #a8a8a8;
+}
+
+/* Agenda list */
+.daylight .d2l-collapsepane .d2l-collapsepane-content {
+  background-color: #7e7e7e;
 }
