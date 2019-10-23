@@ -1,0 +1,38 @@
+.d2l-branding-navigation-background-color {
+  background-color: gray;
+}
+
+d2l-navigation-main-header {
+  background-color: black;
+}
+
+.d2l-page-main-padding {
+  background-color: black;
+  color: white;
+}
+
+.d2l-widget {
+  background-color: gray;
+}
+
+.d2l-body {
+  background-color: black;
+}
+
+.d2l-collapsepane-content {
+  background-color: darkgray;
+}
+
+.daylight .d2l-collapsepane .d2l-collapspane-header {
+  background: black;
+}
+
+.d2l-datalist-outdent > .d2l-msg-container {
+  background-color: black;
+  border-color: darkgray;
+  color: white;
+}
+
+d2l-card {
+  background-color: black;
+}

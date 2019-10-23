@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "DUT",
+  "version": "0.1",
+
+  "description": "Converts Ufora to a dark theme.",
+  
+  "content_scripts": [
+    {
+      "matches": ["*://ufora.ugent.be/*"],
+      "css": ["dut.css"]
+    }
+  ]
+}
