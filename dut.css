@@ -56,3 +56,18 @@ d2l-navigation-main-header {
   border-color: #7e7e7e;
 }
 
+/* Side padding in agenda */
+.d2l-column-side-padding {
+  background-color: #7e7e7e;
+  border-color: #7e7e7e;
+}
+
+.d2l-twopanelselector-side-bg.d2l-twopanelselector-side-sep, .d2l-twopanelselector-side.d2l-twopanelselector-side-sep {
+  background: black;
+}
+
+.d2l-textblock {
+  color: white;
+}
+
+
